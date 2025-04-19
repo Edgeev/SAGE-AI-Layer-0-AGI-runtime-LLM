@@ -7,6 +7,14 @@ No formulas, activation logic, or proprietary code are included.
 
 ---
 
+## ▶️ Launch the Colab Demo
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Edgeev/SAGE-Runtime-Demo/blob/main/demo/SAGE_Runtime_Demo.ipynb)
+
+Interactively visualize FSM transitions and Cr score from a pre-recorded session.
+
+---
+
 ## 🎥 Demo Videos
 
 **Primary Demo:**  
@@ -41,6 +49,7 @@ This trace demonstrates SAGE’s ability to recover role coherence without memor
 | `diagnostic_log.json`    | Sample Cr/Entropy/FSM outputs (x3 turns)    |
 | `SAFE_Public_Architecture.md` | Conceptual description of SAGE architecture |
 | `PARTNERSHIP.md`         | Access protocol for institutional partners  |
+| `SAGE_Runtime_Demo.ipynb`| Public Colab-ready visualization notebook   |
 
 ---
 
@@ -48,7 +57,34 @@ This trace demonstrates SAGE’s ability to recover role coherence without memor
 
 This project is archived at Zenodo.
 
-📌 DOI: 10.5281/zenodo.15227765
+📌 DOI: [10.5281/zenodo.15227765](https://doi.org/10.5281/zenodo.15227765)  
+🛡️ Note: The files are under embargo until 2030 to protect proprietary runtime logic.
+
+---
+
+
+
+---
+
+## ❓ Frequently Asked (and Urgent) Questions
+
+### “Wait — does this actually respond to drift *without* retraining?”
+✅ **Yes.** The FSM transitions are triggered purely by Cr drop, with no memory modules, training loops, or cache injection.
+
+### “What is Cr? Is it a composite metric?”
+✅ **Yes.** Cr (Coherence ratio) integrates multiple behavioral markers — entropy, attention collapse, and role drift — into a stability score.
+
+### “Where is the model? The paper? The internals?”
+🔒 **Restricted.** Core logic, architectural code, and formal publication are under embargo. Institutional access requires a Letter of Intent (LOI).
+
+### “Is this live? Can we test it?”
+✅ **Yes.** The GitHub includes:
+- FSM and Cr logs from a real SAGE runtime session
+- Colab viewer for analysis and FSM visualization
+- Video walkthroughs of continuous inference and recovery
+
+### “Can we integrate this?”
+🧠 **Pilot integration is available** under institutional LOI. See [PARTNERSHIP.md](./PARTNERSHIP.md) for terms.
 
 ---
 
