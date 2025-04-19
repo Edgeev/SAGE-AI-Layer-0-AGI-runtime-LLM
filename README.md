@@ -48,7 +48,7 @@ This trace demonstrates SAGE’s ability to recover role coherence without memor
 
 This project is archived at Zenodo.
 
-📌 DOI: [10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)
+📌 DOI: 10.5281/zenodo.15227765
 
 ---
 
