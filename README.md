@@ -7,12 +7,15 @@ No formulas, activation logic, or proprietary code are included.
 
 ---
 
-## 🎥 Demo Video
+## 🎥 Demo Videos
 
-▶️ [Watch FSM Recovery Demo](demo/media/SAGE_FSM_Recovery_Demo.mp4)
+**Primary Demo:**  
+[![Watch the demo](https://img.youtube.com/vi/rVZyWMBYRCw/0.jpg)](https://www.youtube.com/watch?v=rVZyWMBYRCw)  
+*FSM recovery from entropy-induced drift without memory or retraining.*
 
-Or see the FSM transitions as animation:  
-![FSM Animation](demo/media/fsm_trace.png.gif)
+**Continuous Session Demo:**  
+[![Watch the second demo](https://img.youtube.com/vi/O41NeEzYY_c/0.jpg)](https://www.youtube.com/watch?v=O41NeEzYY_c)  
+*Live inference session showing role stabilization and Cr tracking.*
 
 ---
 
@@ -22,8 +25,7 @@ Example of FSM state progression based on Cr drop and recovery:
 
 ![FSM Trace](demo/fsm_trace.png)
 
-The system transitions through:
-`Stable → Drift → Correction → Return → Stabilized`
+The system transitions through: `Stable → Drift → Correction → Return → Stabilized`
 
 This trace demonstrates SAGE’s ability to recover role coherence without memory.
 
@@ -54,4 +56,3 @@ This project is archived at Zenodo.
 
 Academic access, LOI & validation requests:  
 📧 **sageprojecthq@gmail.com**
-
