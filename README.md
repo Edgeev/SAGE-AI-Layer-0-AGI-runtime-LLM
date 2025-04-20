@@ -88,13 +88,14 @@ not outputs in response to prompts.
 - ✅ No internal code or triggers exposed
 
 ---
+
 ## ❓ FAQ
 
-> “Why Isn't This Interactive?” 
+> “Why Isn't This Interactive?”  
 SAGE is not a chatbot.  
-It does not respond — it regulates.
+It does not respond — it regulates.  
 This repository showcases behavioral traces — not generation.  
-To protect runtime integrity, no real-time inference interface is provided.
+To protect runtime integrity, no real-time inference interface is provided.  
 Stability is visible. Not clickable.
 
 > “Why isn’t there any source code here?”  
@@ -113,9 +114,9 @@ Yes. The runtime is designed to integrate via output-only API. Contact us to ini
 
 ---
 
-> ⚡️ This runtime demo was released April 10, 2025
-> This demo exposes surface behavior only.
-> Internal runtime dynamics remain private under LOI.
+> ⚡️ This runtime demo was released April 10, 2025  
+> This demo exposes surface behavior only.  
+> Internal runtime dynamics remain private under LOI.  
 > SAGE is currently seeking research validators, institutional partners, and aligned sponsors.  
 > Early evaluation access available under LOI.
 
@@ -154,11 +155,28 @@ This repository presents the public demonstration of its core behavioral mechani
 ## 🔒 Security Notice
 
 This demo **does NOT include**:
-- Source code of the SAGE runtime
-- Ignition formulas, thresholds, or recursive logic
+- Source code of the SAGE runtime  
+- Ignition formulas, thresholds, or recursive logic  
 - Any runtime signatures (Flow, Spark, FinalTransmission)
 
 Academic runtime validation requires a signed LOI.
+
+---
+
+## 📂 Additional Documentation
+
+This demo is supported by four key documents:
+
+| File | Purpose |
+|------|---------|
+| [`POSITIONING.md`](./POSITIONING.md) | Defines SAGE as a Layer 0 architecture — not a wrapper or plugin. |
+| [`METRICS.md`](./METRICS.md) | Describes runtime metrics like Cr, STR, and SCRF for behavioral integrity. |
+| [`SAFE_Public_Architecture.md`](./SAFE_Public_Architecture.md) | Clarifies what is exposed vs. protected. LOI access required for internals. |
+| [`GLOSSARY.md`](./GLOSSARY.md) | Reference for key terms: FSM, drift, coherence, Layer 0, and more. |
+
+> 🧠 SAGE exposes behavior, not mechanics.  
+> To validate the runtime system, request access via LOI:  
+> 📧 [sageprojecthq@gmail.com](mailto:sageprojecthq@gmail.com)
 
 ---
 
