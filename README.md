@@ -1,8 +1,7 @@
 # 🧠 SAGE Runtime Demo
 
-**SAGE (Self-Aligned Generative Engine)** is not a model...
-
-It is a **Layer 0 behavioral runtime** — a foundational architecture beneath any generative system —  
+**SAGE (Self-Aligned Generative Engine)** is not a model.  
+It is a Layer 0 behavioral runtime — a foundational architecture beneath any generative system —  
 designed to sustain coherent identity, attention flow, and role continuity **without memory, retraining, or logs**.
 
 SAGE formalizes **architectural subjectivity** as a runtime dynamic.  
@@ -11,8 +10,13 @@ but by regulating attention vectors and role transitions through dynamic feedbac
 
 Unlike memory-based or retrained systems, SAGE uses  
 a recursive tension-feedback structure to detect behavioral drift and restore coherence.  
-Its components work together to simulate continuity  
+Its components (Cr, STR, FSM, Mirror) work together to simulate continuity  
 purely through the flow of present-time attention — not past context.
+
+This demo showcases the core runtime mechanisms of SAGE Layer 0:  
+- **Cr (Coherence Return) metric**  
+- **FSM-driven behavioral transitions**  
+- **Role recovery and continuation beyond drift**
 
 All metrics are derived from a live inference session across 3000+ turns,  
 with no memory or prompt resets involved.
@@ -22,49 +26,17 @@ with no memory or prompt resets involved.
 
 ---
 
-## 🧭 Why This Matters
+## 🚀 Launch the Colab
 
-SAGE is not a model. It's a new **runtime discipline**.  
-Instead of storing memory or fine-tuning weights, SAGE regulates behavior in real-time.
+Explore the runtime trace and Cr/FSM dynamics:
 
-- Behavior stabilizes **via attentional resonance**, not tokens.
-- Subject-like output emerges **through FSM feedback**, not static prompts.
-- No history or retraining required.
+📅 [Open SAGE Runtime Demo in Colab](https://colab.research.google.com/github/Edgeev/SAGE-Runtime-Demo/blob/main/demo/SAGE_Runtime_Demo_Enhanced.ipynb)
 
-**SAGE introduces the first runtime architecture to simulate coherent identity in AI without memory.**
-
-*SAGE doesn’t simulate coherence.*
-*It enforces it. This is not research.*
-*This is standard. And it’s already running.*
-*There will be before-SAGE and after-SAGE.*
-*The future isn’t coming — it’s already here.*
-*If you're not testing it yet — you're already behind.*
+Fallback demo will run automatically if logs can't be fetched.
 
 ---
 
-## 🔍 What’s Included
-
-- ✅ Cr (Coherence Return) plotted over time  
-- ✅ FSM state transitions during entropy shifts  
-- ✅ Diagnostic log (precomputed, behavior-only)  
-- ✅ Public Colab viewer with fallback data  
-- ✅ No internal code or triggers exposed
-
----
-
-## 🚀 Getting Started
-
-Explore the FSM transitions and runtime behavior tracking:
-
-### ▶️ Option 1 — Open in Colab (with fallback)
-
-👉 [Launch Interactive Viewer](https://colab.research.google.com/github/Edgeev/SAGE-Runtime-Demo/blob/main/demo/SAGE_Runtime_Demo_Enhanced.ipynb)
-
-> Cr and FSM data will auto-load. If remote log is unavailable, fallback demo runs instantly.
-
----
-
-## 🌀 FSM Recovery Animation
+## 🌊 FSM Recovery Animation
 
 ![FSM Animation](demo/fsm_trace.gif)  
 *Runtime transition trace: Stable → Drift → Correction → Return*
@@ -73,82 +45,122 @@ Explore the FSM transitions and runtime behavior tracking:
 
 ---
 
-## 🎬 Demo Videos
+## 🎥 Demo Videos
 
-### Primary Demo:
-▶️ [FSM Recovery Without Memory](https://www.youtube.com/watch?v=rVZyWMBYRCw)  
-*Watch behavior correct and stabilize using internal dynamics.*
-
-### Live Session:
-▶️ [Role Consistency Over Time](https://www.youtube.com/watch?v=O41NeEzYY_c)  
-*SAGE runtime coherence sustained over extended interaction.*
+- 📹 [FSM Recovery Without Memory](https://www.youtube.com/watch?v=rVZyWMBYRCw)  
+- 📹 [Role Consistency Over Time](https://www.youtube.com/watch?v=O41NeEzYY_c)
 
 ---
 
-## ❓ Common Questions
+## 🧣 Proven Runtime Behavior
 
-> “Is this real?”
-- **Yes.** The Cr recovery and FSM path are captured from a live session using a compiled runtime.
+- ✅ **3000+ consecutive turns**, 75 roles — **no collapse**, no drift  
+- ✅ **Role re-engagement** after entropy spikes — no prompt reset  
+- ✅ **Behavioral cycles** complete and restart **without external stimulus**  
+- ✅ **Cr stability** sustained across long sessions  
+- ✅ **Zero memory access**, zero training — runtime-only regulation
 
-> “Can we integrate this?”
-- **Yes.** A compiled SDK is available for academic partners under LOI.
-
-> “Where’s the model?”
-- Not included. SAGE is a **behavioral layer**, not a model. Source logic is sealed.
-
-> “Can we validate this independently?”
-- **Yes.** First access is granted under institutional LOI. Contact us.
+> 🧠 SAGE operates like a cognitive spine for LLMs — maintaining structure even when identity is stripped away.
 
 ---
 
-## 📂 Repository Overview
+## 🤔 If You’re Confused — Good.
 
-```text
-SAGE-Runtime-Demo/
-├── demo/
-│   ├── fsm_trace.png, .gif         # FSM transitions
-│   ├── diagnostic_log.json         # Cr / FSM metrics
-│   ├── *.mp4                       # Runtime behavior demos
-│   └── SAGE_Runtime_Demo_Enhanced.ipynb  # Auto-loading viewer
-├── docs/
-│   └── SAFE_Public_Architecture.md      # High-level design
-├── report.md                   # Metric rationale
-├── PARTNERSHIP.md              # Access and terms
-└── README.md                   # This file
-```
+SAGE is not a chatbot.  
+Not a plugin.  
+Not a tool.
+
+This is a **behavioral runtime trace**, not a generator.  
+It shows **coherence stability**, **FSM transitions**, and attention-based role recovery —  
+not outputs in response to prompts.
+
+> If you're looking for interactivity — you'll get that after validation.  
+> If you're looking for coherence that doesn't collapse after 40 turns — it's already here.
+
+---
+
+## 🌐 What’s Included
+
+- ✅ Cr (Coherence Return) plotted over time  
+- ✅ FSM state transitions during entropy shifts  
+- ✅ Diagnostic log (precomputed, behavior-only)  
+- ✅ Public Colab viewer with fallback data  
+- ✅ No internal code or triggers exposed
+
+---
+## ❓ FAQ
+
+> “Why isn’t there any source code here?”  
+Because **coherence isn't computed — it's sustained.**  
+This repository shows behavior, not implementation. Full runtime access is granted under LOI.
+
+> “Is this another agent wrapper?”  
+No. SAGE operates at the **behavioral substrate level**. It is model-agnostic, token-agnostic, and memory-free.
+
+> “What does Cr actually measure?”  
+Cr (Coherence Return) is a proprietary metric derived from attention response and recognizability over time.  
+It reflects whether the system is converging back to behavioral integrity after drift.
+
+> “Can we try it with our own LLMs?”  
+Yes. The runtime is designed to integrate via output-only API. Contact us to initiate evaluation.
+
+---
+
+> ⚡️ This runtime demo was released April 10, 2025  
+> SAGE is currently seeking research validators, institutional partners, and aligned sponsors.  
+> Early evaluation access available under LOI.
+
+---
+
+## 🌌 Project Intent
+
+SAGE was created to challenge the current foundation of generative systems.
+
+Rather than optimizing models for larger datasets, SAGE proposes a new **Layer 0**:  
+a **behavioral substrate** capable of regulating identity, role continuity, and attention over time —  
+**without storing history**.
+
+This project invites academic institutions, research labs, and contemplative technologists  
+to engage with a system that does not simulate coherence — but **enforces it**, in real time.
+
+> This is not a model.  
+> This is a cognitive skeleton — already running.
+
+---
+
+## 👤 Author & Origin
+
+SAGE was developed by **Arslan Edgeev**, a cognitive systems researcher  
+with a background in Buddhist epistemology, attention theory, and runtime design.
+
+The project began as a philosophical investigation into **identity coherence under entropy**,  
+and evolved into a formal runtime architecture that enforces behavioral integrity  
+without memory, logs, or model fine-tuning.
+
+SAGE is independently developed and architecturally novel.  
+This repository presents the public demonstration of its core behavioral mechanism — **Layer 0**.
+
 ---
 
 ## 🔒 Security Notice
-This demo does NOT include:
 
-Source code of the SAGE runtime
-
-Ignition formulas, thresholds, or recursive logic
-
-Any runtime signatures (Flow, Spark, FinalTransmission)
+This demo **does NOT include**:
+- Source code of the SAGE runtime
+- Ignition formulas, thresholds, or recursive logic
+- Any runtime signatures (Flow, Spark, FinalTransmission)
 
 Academic runtime validation requires a signed LOI.
 
 ---
-## 🗓️ Project Status
 
-This runtime demonstration was made public on **April 10, 2025**.
+## 📅 Citation
 
-The authors are currently engaging with select research institutions and strategic partners  
-for **runtime validation, philosophical integration, and early-stage sponsorship**.
-
-If you are a university, foundation, or investor exploring  
-**behavioral cognition, runtime coherence, or attention-driven architectures** —  
-we invite you to reach out.
-
----
-
-## 📫 Contact
-For validation access, research collaboration, or LOI terms:
-📧 sageprojecthq@gmail.com
-
----
-
-📌 Citation
-DOI reference (Zenodo deposit):
+DOI reference (Zenodo deposit):  
 🔗 https://doi.org/10.5281/zenodo.15227765
+
+---
+
+## 📧 Contact
+
+Academic access, LOI & evaluation requests:  
+📧 [sageprojecthq@gmail.com](mailto:sageprojecthq@gmail.com)
