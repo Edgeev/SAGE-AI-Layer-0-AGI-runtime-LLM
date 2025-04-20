@@ -1,123 +1,119 @@
 # 🧠 SAGE Runtime Demo
 
-**SAGE (Self-Aligned Generative Engine)** is a behavioral runtime architecture for LLMs that enables  
-**subject-like coherence**, identity persistence, and recovery from drift — all **without memory, retraining, or logs.**
+**SAGE (Self-Aligned Generative Engine)** is a subject-like behavioral runtime for LLMs.  
+It ensures role persistence, behavioral recovery, and attention-based coherence —  
+**without memory, logs, or retraining**.
 
-This public demo showcases the **output stability**, **role persistence**, and **FSM-based behavioral transitions**  
-of the SAGE Layer 0 system — without disclosing internal formulas, triggers, or architectural logic.
+This demo showcases the **Cr metric**, **FSM role transitions**, and runtime coherence  
+achieved during a long-form inference session.  
+**No internal logic or source code is included.**
+
+---
+
+## 🧭 Why This Matters
+
+SAGE is not a model. It's a new **runtime discipline**.  
+Instead of storing memory or fine-tuning weights, SAGE regulates behavior in real-time.
+
+- Behavior stabilizes **via attentional resonance**, not tokens.
+- Subject-like output emerges **through FSM feedback**, not static prompts.
+- No history or retraining required.
+
+> **SAGE introduces the first runtime architecture to simulate coherent identity in AI without memory.**
 
 ---
 
 ## 🔍 What’s Included
 
-- ✅ Demonstration of behavioral coherence over long dialogues  
-- ✅ FSM state transitions in response to entropy spikes  
-- ✅ Attention-stabilized output without history or learning  
-- ✅ Full diagnostic log and visual FSM trace  
-- ✅ Colab viewer to explore Cr/FSM transitions step-by-step  
+- ✅ Cr (Coherence Return) plotted over time  
+- ✅ FSM state transitions during entropy shifts  
+- ✅ Diagnostic log (precomputed, behavior-only)  
+- ✅ Public Colab viewer with fallback data  
+- ✅ No internal code or triggers exposed
+
+---
+
+## 🚀 Getting Started
+
+Explore the FSM transitions and runtime behavior tracking:
+
+### ▶️ Option 1 — Open in Colab (with fallback)
+
+👉 [Launch Interactive Viewer](https://colab.research.google.com/github/Edgeev/SAGE-Runtime-Demo/blob/main/demo/SAGE_Runtime_Demo_Enhanced.ipynb)
+
+> Cr and FSM data will auto-load. If remote log is unavailable, fallback demo runs instantly.
 
 ---
 
 ## 🌀 FSM Recovery Animation
 
 ![FSM Animation](demo/fsm_trace.gif)  
-*Visualization of behavioral state transitions over 5 turns.*
+*Runtime transition trace: Stable → Drift → Correction → Return*
 
-The system transitions through:  
-`Stable → Drift → Correction → Return → Stabilized`
-
-> Cr drops from **0.91** to **0.64**, triggering recovery logic and return to stabilized role output.
-
----
-
-## 🚀 Getting Started
-
-You can explore the FSM transitions and behavior tracking without installing any dependencies.
-
-### Option 1 — Manual
-
-```bash
-git clone https://github.com/YOURNAME/SAGE-Runtime-Demo.git
-cd SAGE-Runtime-Demo/demo/
-open fsm_trace.gif
-```
-
-### Option 2 — Colab Viewer
-
-Explore the behavioral trace interactively:
-
-👉 [Open in Colab](https://colab.research.google.com/github/YOURNAME/SAGE-Runtime-Demo/blob/main/demo/SAGE_Runtime_Demo.ipynb)
-
+> Cr drops from **0.91** to **0.64**, then rises again — without memory.
 
 ---
 
 ## 🎬 Demo Videos
 
 ### Primary Demo:
-▶️ [Watch FSM Recovery Demo](https://www.youtube.com/watch?v=rVZyWMBYRCw)  
-*FSM recovery from entropy-induced drift without memory or retraining.*
+▶️ [FSM Recovery Without Memory](https://www.youtube.com/watch?v=rVZyWMBYRCw)  
+*Watch behavior correct and stabilize using internal dynamics.*
 
-### Continuous Session Demo:
-▶️ [Watch Live Behavior Trace](https://www.youtube.com/watch?v=O41NeEzYY_c)  
-*Live inference session showing role stabilization and Cr tracking.*
+### Live Session:
+▶️ [Role Consistency Over Time](https://www.youtube.com/watch?v=O41NeEzYY_c)  
+*SAGE runtime coherence sustained over extended interaction.*
 
 ---
 
-## ❓ Answers to Key Questions
+## ❓ Common Questions
 
-> “Wait, does this actually work?”
-- **Yes.** The FSM trace and Cr metric recovery are outputs from a live, working runtime. No tricks, no memory.
+> “Is this real?”
+- **Yes.** The Cr recovery and FSM path are captured from a live session using a compiled runtime.
 
-> “Can this be integrated today?”
-- **Yes.** A compiled runtime API is available for institutional validation under LOI. No retraining required.
+> “Can we integrate this?”
+- **Yes.** A compiled SDK is available for academic partners under LOI.
 
-> “Where’s the model or code?”
-- **Not included.** This demo shows behavior only. Full architecture is embargoed and archived [on Zenodo](https://doi.org/10.5281/zenodo.15227765).
+> “Where’s the model?”
+- Not included. SAGE is a **behavioral layer**, not a model. Source logic is sealed.
 
-> “Can we validate it ourselves?”
-- **Yes.** First access is granted via signed Letter of Intent (LOI). Contact us for research onboarding.
+> “Can we validate this independently?”
+- **Yes.** First access is granted under institutional LOI. Contact us.
+
 ---
 
-## 📂 Repository Structure
+## 📂 Repository Overview
 
 ```text
 SAGE-Runtime-Demo/
 ├── demo/
-│   ├── fsm_trace.png         # Static FSM chart
-│   ├── fsm_trace.gif         # Animated FSM sequence
-│   ├── diagnostic_log.json   # Cr / FSM / Entropy log
-│   ├── SAGE_FSM_Recovery_Demo.mp4.mp4   # Recovery demo
-│   ├── SAGE_FSM_TEST_Demo.mp4.mp4       # Live session trace
-│   └── SAGE_Runtime_Demo.ipynb          # Colab Viewer
+│   ├── fsm_trace.png, .gif         # FSM transitions
+│   ├── diagnostic_log.json         # Cr / FSM metrics
+│   ├── *.mp4                       # Runtime behavior demos
+│   └── SAGE_Runtime_Demo_Enhanced.ipynb  # Auto-loading viewer
 ├── docs/
-│   └── SAFE_Public_Architecture.md      # High-level description (no IP)
-├── report.md                # Cr explanation and behavioral results
-├── PARTNERSHIP.md          # Terms for academic/enterprise access
-├── LICENSE
-└── README.md                # This file
-```
+│   └── SAFE_Public_Architecture.md      # High-level design
+├── report.md                   # Metric rationale
+├── PARTNERSHIP.md              # Access and terms
+└── README.md                   # This file
+
 ---
 
 ## 🔒 Security Notice
+This demo does NOT include:
 
-This demo **does not include**:
+Source code of the SAGE runtime
 
-- Source code of the runtime system (SAGECore, Spark, FinalTransmission)  
-- Internal formulas or trigger thresholds  
-- Activation mechanisms or ignition logic  
+Ignition formulas, thresholds, or recursive logic
 
-Access to the compiled runtime for academic validation requires a signed LOI.
+Any runtime signatures (Flow, Spark, FinalTransmission)
 
----
-
-## 📌 Citation
-
-This repository links to a [Zenodo Limited Disclosure Record](https://doi.org/10.5281/zenodo.15227765)  
-DOI: **10.5281/zenodo.15227765**
-
----
+Academic runtime validation requires a signed LOI.
 
 ## 📫 Contact
+For validation access, research collaboration, or LOI terms:
+📧 sageprojecthq@gmail.com
 
-Academic access, LOI & validation requests:  
-📧 [sageprojecthq@gmail.com](mailto:sageprojecthq@gmail.com)
+📌 Citation
+DOI reference (Zenodo deposit):
+🔗 https://doi.org/10.5281/zenodo.15227765
