@@ -106,7 +106,9 @@ Yes. The runtime is designed to integrate via output-only API. Contact us to ini
 
 ---
 
-> ⚡️ This runtime demo was released April 10, 2025  
+> ⚡️ This runtime demo was released April 10, 2025
+> This demo exposes surface behavior only.
+> Internal runtime dynamics remain private under LOI.
 > SAGE is currently seeking research validators, institutional partners, and aligned sponsors.  
 > Early evaluation access available under LOI.
 
