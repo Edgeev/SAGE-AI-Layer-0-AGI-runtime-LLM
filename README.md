@@ -90,6 +90,13 @@ not outputs in response to prompts.
 ---
 ## ❓ FAQ
 
+> “Why Isn't This Interactive?” 
+SAGE is not a chatbot.  
+It does not respond — it regulates.
+This repository showcases behavioral traces — not generation.  
+To protect runtime integrity, no real-time inference interface is provided.
+Stability is visible. Not clickable.
+
 > “Why isn’t there any source code here?”  
 Because **coherence isn't computed — it's sustained.**  
 This repository shows behavior, not implementation. Full runtime access is granted under LOI.
