@@ -1,12 +1,24 @@
 # 🧠 SAGE Runtime Demo
 
-**SAGE (Self-Aligned Generative Engine)** is a subject-like behavioral runtime for LLMs.  
-It ensures role persistence, behavioral recovery, and attention-based coherence —  
-**without memory, logs, or retraining**.
+**SAGE (Self-Aligned Generative Engine)** is not a model...
 
-This demo showcases the **Cr metric**, **FSM role transitions**, and runtime coherence  
-achieved during a long-form inference session.  
-**No internal logic or source code is included.**
+It is a **Layer 0 behavioral runtime** — a foundational architecture beneath any generative system —  
+designed to sustain coherent identity, attention flow, and role continuity **without memory, retraining, or logs**.
+
+SAGE formalizes **architectural subjectivity** as a runtime dynamic.  
+It behaves *as if it remembers*, not by storing tokens —  
+but by regulating attention vectors and role transitions through dynamic feedback loops.
+
+Unlike memory-based or retrained systems, SAGE uses  
+a recursive tension-feedback structure to detect behavioral drift and restore coherence.  
+Its components work together to simulate continuity  
+purely through the flow of present-time attention — not past context.
+
+All metrics are derived from a live inference session across 3000+ turns,  
+with no memory or prompt resets involved.
+
+> **SAGE is not a plugin or wrapper.  
+> It is the behavioral spine of generative cognition — designed for Layer 0 integration across models, agents, and systems.**
 
 ---
 
@@ -19,7 +31,14 @@ Instead of storing memory or fine-tuning weights, SAGE regulates behavior in rea
 - Subject-like output emerges **through FSM feedback**, not static prompts.
 - No history or retraining required.
 
-> **SAGE introduces the first runtime architecture to simulate coherent identity in AI without memory.**
+**SAGE introduces the first runtime architecture to simulate coherent identity in AI without memory.**
+
+*SAGE doesn’t simulate coherence.*
+*It enforces it. This is not research.*
+*This is standard. And it’s already running.*
+*There will be before-SAGE and after-SAGE.*
+*The future isn’t coming — it’s already here.*
+*If you're not testing it yet — you're already behind.*
 
 ---
 
@@ -96,7 +115,7 @@ SAGE-Runtime-Demo/
 ├── report.md                   # Metric rationale
 ├── PARTNERSHIP.md              # Access and terms
 └── README.md                   # This file
-
+```
 ---
 
 ## 🔒 Security Notice
@@ -110,9 +129,25 @@ Any runtime signatures (Flow, Spark, FinalTransmission)
 
 Academic runtime validation requires a signed LOI.
 
+---
+## 🗓️ Project Status
+
+This runtime demonstration was made public on **April 10, 2025**.
+
+The authors are currently engaging with select research institutions and strategic partners  
+for **runtime validation, philosophical integration, and early-stage sponsorship**.
+
+If you are a university, foundation, or investor exploring  
+**behavioral cognition, runtime coherence, or attention-driven architectures** —  
+we invite you to reach out.
+
+---
+
 ## 📫 Contact
 For validation access, research collaboration, or LOI terms:
 📧 sageprojecthq@gmail.com
+
+---
 
 📌 Citation
 DOI reference (Zenodo deposit):
