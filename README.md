@@ -205,10 +205,15 @@ This demo is supported by four key documents:
 
 ---
 
-## 📅 Citation
+## 🛡 Legal Notice
 
-DOI reference (Zenodo deposit):  
-🔗 https://doi.org/10.5281/zenodo.15227765
+A U.S. Provisional Patent Application (PPA) has been filed to protect core runtime architecture and metric derivation methods of the SAGE system.
+
+This repository is published under limited behavioral disclosure only.  
+Architecture, metric logic, and runtime triggers remain protected.
+
+Zenodo Disclosure Record: [10.5281/zenodo.xxxxxxxx](https://doi.org/10.5281/zenodo.xxxxxxxx)  
+Patent Status: **PPA filed, U.S. pending**
 
 ---
 
