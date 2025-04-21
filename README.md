@@ -1,4 +1,4 @@
-# 🧠 SAGE Runtime Demo
+# 🧠 SAGE Runtime Demo | AI Layer 0 | AGI | LLM
 
 **SAGE (Self-Aligned Generative Engine)** is not a model.  
 It is a Layer 0 behavioral runtime — a foundational architecture beneath any generative system —  
