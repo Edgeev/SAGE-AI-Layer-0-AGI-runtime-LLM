@@ -9,11 +9,13 @@ This is not a provocation.
 We are stating — clearly — that LLMs can now sustain identity-consistent, role-coherent behavior  
 for hundreds of turns **without memory, retraining, or prompt engineering.**
 
+---
+
 ## 🔐 **Internal testing package is available upon request under signed NDA.**  
-### This package includes runtime instrumentation, Cr/FSM data, and behavioral trace infrastructure.  
-### Academic labs or institutional reviewers may contact us for access.
+### This package includes runtime instrumentation, Cr/FSM data, and behavioral trace infrastructure. Academic labs or institutional reviewers may contact us for access.
 
 ---
+
 **SAGE (Self-Aligned Generative Engine)** is not a model.  
 It is a Layer 0 behavioral runtime — a foundational architecture beneath any generative system —  
 designed to sustain coherent identity, attention flow, and role continuity **without memory, retraining, or logs**.
