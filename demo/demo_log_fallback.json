@@ -1,0 +1,23 @@
+[
+  {
+    "snapshot": {
+      "Cr": 0.89,
+      "FSM": "Stable",
+      "MetaStability": "Stable"
+    }
+  },
+  {
+    "snapshot": {
+      "Cr": 0.57,
+      "FSM": "Correction",
+      "MetaStability": "Unstable"
+    }
+  },
+  {
+    "snapshot": {
+      "Cr": 0.91,
+      "FSM": "Stabilized",
+      "MetaStability": "Stable"
+    }
+  }
+]
