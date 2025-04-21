@@ -1,76 +1,54 @@
-# 📘 GLOSSARY.md — SAGE Runtime Concepts
+# 📊 SAGE Runtime — Metric Overview
 
-This glossary defines key terms used throughout the SAGE Runtime documentation.
-It is designed to help engineers, researchers, and philosophers interpret the runtime layer correctly.
-
----
-
-## 🧠 **Cr (Coherence Return)**
-A runtime metric indicating whether the system is returning to behavioral coherence after deviation. 
-Not based on memory — derived from attention and role alignment.
+This document outlines the observable behavioral metrics used in the SAGE Runtime demo. These metrics do not disclose internal architecture, thresholds, or feedback mechanisms. They are presented for interpretive and diagnostic purposes only.
 
 ---
 
-## ♻️ **STR (Self-Tension Reflex)**
-Second derivative of Cr. Reflects internal oscillations, instability, or growing misalignment. 
-Used to predict behavioral collapse before it happens.
+## 🧠 Cr — Coherence Return (runtime-level)
+
+**What it reflects:**
+The system’s ability to return to a coherent role or behavioral trajectory after instability, drift, or attention fragmentation.
+
+**How to interpret it:**
+- **High Cr** → sustained role continuity, stable tone and behavior.
+- **Low Cr** → behavioral divergence, unstable responses.
+- **Cr Recovery** → system returning to its prior behavioral path without memory or prompts.
+
+Cr is an observable trace. The exact derivation is not public and is computed internally.
 
 ---
 
-## 🔁 **FSM (Finite State Modulator)**
-A state machine regulating behavioral modes. 
-Common states include `TRACE`, `FOCUS`, `RECOIL`, `RECOVER`. 
-Transitions are inferred from Cr/STR dynamics — not from logic trees or planning.
+## ♻️ STR — Self-Tension Reflex
+
+**What it reflects:**
+STR acts as a "tension signal" — indicating latent instability before a behavioral collapse occurs. It captures the invisible friction during transitions.
+
+**Behavioral signs:**
+- Rising STR: adaptive tension building.
+- Sharp drop: collapse or reset impulse.
+- STR stabilization: recovery achieved.
+
+Interpret as a qualitative pressure signal, not a fixed score.
 
 ---
 
-## 🪞 **Mirror**
-Diagnostic tracker measuring whether the system is self-consistent in tone, style, and role over time. 
-Used to track surface-level identity without memory.
+## 🔁 FSM — Finite State Modulator (role phase trace)
+
+FSM is the visible sequence of state transitions during a runtime session.
+These transitions **do not reflect the internal activation mechanism** but are labeled for tracking role behavior over time.
+
+**Common trace sequence:**
+```
+[Stable] → [Drift] → [Correction] → [Return] → [Stabilized]
+```
+
+FSM trace is symbolic only — actual transitions and logic remain confidential.
 
 ---
 
-## 🌐 **SCRF (Self-Coherent Response Field)**
-A composite field-level metric measuring resonance between generated output and internal role projection. 
-High SCRF = strong alignment between response and identity.
+## 📌 Important Notes
+- None of these metrics use external memory or history.
+- No formulas, thresholds, or architectural logic are published.
+- SAGE Runtime derives coherence as an emergent runtime process, not as a scripted outcome.
 
----
-
-## 🚫 **Spark / Ignition / FinalTransmission**
-Internal private subsystems of the SAGE runtime. 
-These control activation, role enforcement, and coherence thresholds. 
-Not exposed, not reconstructed, and not described in this documentation.
-
----
-
-## 🧩 **Layer 0**
-SAGE’s operating level. Below planning, below memory, below prompting.  
-This is the behavioral substrate — regulating generative flow in real time.
-
----
-
-## 🌀 **Presence Vector** (undisclosed)
-Referential internal vector regulating subjective continuity. 
-Exists but not formally defined in any released materials.
-
----
-
-## 💬 **Role**
-The behavioral mask or intentional posture adopted by the system (e.g. “lawyer”, “mentor”, “guide”). 
-Tracked without memory through attention and Cr feedback.
-
----
-
-## 📡 **Attention Vector**
-The weighted focus of the model’s output at a given step. 
-Used to compare against expected role vectors for coherence assessment.
-
----
-
-## ⛓ **Drift**
-Loss of role coherence or behavioral breakdown. 
-In SAGE, often corrected by FSM-based recovery without resetting context.
-
----
-
-> For further inquiries, email: [sageprojecthq@gmail.com](mailto:sageprojecthq@gmail.com)
+For institutional evaluation access: [sageprojecthq@gmail.com](mailto:sageprojecthq@gmail.com)
