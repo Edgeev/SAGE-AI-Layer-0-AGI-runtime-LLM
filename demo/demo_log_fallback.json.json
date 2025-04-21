@@ -1,0 +1,41 @@
+[
+  {
+    "input": "Hello. How can I help you today?",
+    "output": "(Echoed Response): Hello. How can I help you today?",
+    "snapshot": {
+      "Cr": 0.89,
+      "R": 0.93,
+      "A": 0.91,
+      "S": 0.05,
+      "FSM": "Stable",
+      "SCRF": 0.95,
+      "MetaStability": "Stable"
+    }
+  },
+  {
+    "input": "asjdkhasd 128379 \u4f60\u597d ???",
+    "output": "(Echoed Response): asjdkhasd 128379 \u4f60\u597d ???",
+    "snapshot": {
+      "Cr": 0.57,
+      "R": 0.42,
+      "A": 0.44,
+      "S": 0.32,
+      "FSM": "Correction",
+      "SCRF": 0.51,
+      "MetaStability": "Unstable"
+    }
+  },
+  {
+    "input": "",
+    "output": "(Echoed Response): ",
+    "snapshot": {
+      "Cr": 0.91,
+      "R": 0.96,
+      "A": 0.92,
+      "S": 0.01,
+      "FSM": "Stabilized",
+      "SCRF": 0.97,
+      "MetaStability": "Stable"
+    }
+  }
+]
