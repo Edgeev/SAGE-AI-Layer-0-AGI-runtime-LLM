@@ -30,7 +30,7 @@ with no memory or prompt resets involved.
 
 Explore the runtime trace and Cr/FSM dynamics:
 
-📅 [Open SAGE Runtime Demo in Colab](https://colab.research.google.com/github/Edgeev/SAGE-Runtime-Demo/blob/main/demo/SAGE_Runtime_Demo_Enhanced.ipynb)
+📅 [Open SAGE Runtime Demo in Colab](https://colab.research.google.com/github/Edgeev/SAGE-Runtime-Demo/blob/main/demo/SAGE_Runtime_Demo.ipynb)
 
 Fallback demo will run automatically if logs can't be fetched.
 
