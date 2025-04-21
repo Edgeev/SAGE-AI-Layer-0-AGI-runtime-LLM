@@ -232,6 +232,10 @@ All evaluation begins under a mutual LOI. No API access or sandbox is provided a
 - Architecture, runtime logic, and metric derivation methods protected  
 - No reuse or simulation of architecture permitted without license  
 - Derivative tracing and enforcement active via AI-assisted pattern watch
+- This project is archived at Zenodo.
+- 📌 DOI: [10.5281/zenodo.15227765](https://doi.org/10.5281/zenodo.15227765)  
+- 🛡️ Note: The files are under embargo until 2030 to protect proprietary runtime logic.
+
 
 This repository is a **limited behavioral disclosure only**.
 
