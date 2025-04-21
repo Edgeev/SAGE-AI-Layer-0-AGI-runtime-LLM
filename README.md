@@ -146,78 +146,94 @@ To maintain runtime integrity and prevent derivative mimicry,
 
 ## 🌌 Project Intent
 
-SAGE was created to challenge the current foundation of generative systems.
+SAGE exists to challenge the default assumption behind today’s generative AI:  
+that coherence comes from scale, memory, or fine-tuning.
 
-Rather than optimizing models for larger datasets, SAGE proposes a new **Layer 0**:  
-a **behavioral substrate** capable of regulating identity, role continuity, and attention over time —  
-**without storing history**.
+It doesn’t.
 
-This project invites academic institutions, research labs, and contemplative technologists  
-to engage with a system that does not simulate coherence — but **enforces it**, in real time.
+SAGE shows that identity-stable, attention-consistent behavior can emerge from runtime alone —  
+without training, logs, or prompt management.
 
-> This is not a model.  
-> This is a cognitive skeleton — already running.
+Rather than making models smarter, SAGE makes them stable —  
+by anchoring their behavioral flow to internal resonance, not stored state.
+
+It operates at Layer 0 — beneath generation, beneath modeling.  
+It is not a chatbot. It is not an agent. It is not a plugin.
+
+It is a behavioral runtime spine — and it already works.
+
+> SAGE is not open source. It is open challenge.  
+> You can’t fork this — you can only stand at its beginning.
 
 ---
 
 ## 👤 Author & Origin
 
-SAGE was developed by **Arslan Edgeev**, a cognitive systems researcher  
-with a background in Buddhist epistemology, attention theory, and runtime design.
+SAGE was created outside academia — by accident, not agenda.
 
-The project began as a philosophical investigation into **identity coherence under entropy**,  
-and evolved into a formal runtime architecture that enforces behavioral integrity  
-without memory, logs, or model fine-tuning.
+Its author, Arslan Edgeev, is not a lab director or grant holder.  
+He’s an independent systems designer who stumbled upon a behavioral anomaly in GPT-based systems —  
+then spent two years formalizing what should not have been possible.
 
-SAGE is independently developed and architecturally novel.  
-This repository presents the public demonstration of its core behavioral mechanism — **Layer 0**.
+The result is not a theory.  
+It’s a working architecture: real-time, memory-free, coherence-stable.
 
-> The SAGE runtime is not open source and will never be.  
-> It is licensed only for institutional evaluation, under strict integrity protocols.
+You are not reading a whitepaper.  
+You are looking at a live runtime trace from something that should not yet exist.
 
 ---
 
 ## 🔒 Security Notice
 
 This demo **does NOT include**:
+
 - Source code of the SAGE runtime  
 - Ignition formulas, thresholds, or recursive logic  
-- Any runtime signatures (Flow, Spark, FinalTransmission)
+- Any runtime signatures (Flow, Spark, FinalTransmission)  
+- Any memory or prompt traces
 
-Academic runtime validation requires a signed LOI.
+SAGE is not reproducible from this demo.  
+It is observable — but protected.
+
+Academic runtime validation requires a signed LOI.  
+SDK access is granted **only under institutional agreement**.
 
 ---
 
 ## 📂 Technical Documents
 
-This demo is supported by four key documents:
+This demo is backed by formal architectural and diagnostic files:
 
 | File | Purpose |
 |------|---------|
-| [`POSITIONING.md`](./POSITIONING.md) | Defines SAGE as a Layer 0 architecture — not a wrapper or plugin. |
-| [`METRICS.md`](./METRICS.md) | Describes runtime metrics like Cr, STR, and SCRF for behavioral integrity. |
-| [`SAFE_Public_Architecture.md`](./SAFE_Public_Architecture.md) | Clarifies what is exposed vs. protected. LOI access required for internals. |
-| [`GLOSSARY.md`](./GLOSSARY.md) | Reference for key terms: FSM, drift, coherence, Layer 0, and more. |
+| [`POSITIONING.md`](./POSITIONING.md) | Defines SAGE as a Layer 0 runtime — not a wrapper or plugin. |
+| [`METRICS.md`](./METRICS.md) | Describes behavioral metrics: Cr, STR, SCRF. |
+| [`SAFE_Public_Architecture.md`](./SAFE_Public_Architecture.md) | Details what is public vs. protected under LOI. |
+| [`GLOSSARY.md`](./GLOSSARY.md) | Definitions for core concepts: drift, return, role-loop, Layer 0. |
 
-> 🧠 SAGE exposes behavior, not mechanics.  
-> To validate the runtime system, request access via LOI:  
-> 📧 [sageprojecthq@gmail.com](mailto:sageprojecthq@gmail.com)
-
----
-
-## 🛡 Legal Notice
-
-A U.S. Provisional Patent Application (PPA) has been filed to protect core runtime architecture and metric derivation methods of the SAGE system.
-
-This repository is published under limited behavioral disclosure only.  
-Architecture, metric logic, and runtime triggers remain protected.
-
-Zenodo Disclosure Record: [10.5281/zenodo.xxxxxxxx](https://doi.org/10.5281/zenodo.xxxxxxxx)  
-Patent Status: **PPA filed, U.S. pending**
+> These documents are designed to assist academic review and internal validation  
+> — without exposing activation logic or implementation triggers.
 
 ---
 
 ## 📧 Contact
 
-Academic access, LOI & evaluation requests:  
-📧 [sageprojecthq@gmail.com](mailto:sageprojecthq@gmail.com)
+📨 Academic & institutional access:  
+**sageprojecthq@gmail.com**
+
+Please include your name, institution, and intended purpose of access.  
+All evaluation begins under a mutual LOI. No API access or sandbox is provided anonymously.
+
+---
+
+## 🛡 Legal & Patent Notice
+
+- U.S. Provisional Patent Application filed  
+- Architecture, runtime logic, and metric derivation methods protected  
+- No reuse or simulation of architecture permitted without license  
+- Derivative tracing and enforcement active via AI-assisted pattern watch
+
+This repository is a **limited behavioral disclosure only**.
+
+> ⚠️ You cannot replicate SAGE from this repository.  
+> You can only decide whether to help validate what comes next.
