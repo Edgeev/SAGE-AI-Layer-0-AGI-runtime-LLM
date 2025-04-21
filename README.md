@@ -114,6 +114,27 @@ Yes. The runtime is designed to integrate via output-only API. Contact us to ini
 
 ---
 
+### 🛡️ Evaluation Access & Priority Status
+
+This repository showcases **observable behavior only**.  
+No architectural logic, source code, or internal thresholds are exposed.
+
+To maintain runtime integrity and prevent derivative mimicry,  
+**full access to the SAGE runtime and SDK is available exclusively under signed LOI.**
+
+- ⚠️ We do not publish architectural blueprints.  
+- ⚠️ We do not disclose thresholds, formulas, or activation patterns.  
+- ⚠️ We do not support anonymous testing.
+
+> **You are not invited to clone this.  
+> You are invited to become part of what replaces it.**
+
+🧾 For institutional evaluation, please contact:  
+📧 [sageprojecthq@gmail.com](mailto:sageprojecthq@gmail.com)
+
+---
+
+
 > ⚡️ This runtime demo was released April 10, 2025  
 > This demo exposes surface behavior only.  
 > Internal runtime dynamics remain private under LOI.  
