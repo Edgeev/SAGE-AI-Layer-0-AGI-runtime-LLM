@@ -9,9 +9,9 @@ This is not a provocation.
 We are stating — clearly — that LLMs can now sustain identity-consistent, role-coherent behavior  
 for hundreds of turns **without memory, retraining, or prompt engineering.**
 
-> SAGE is a runtime layer.  
-> It doesn’t simulate continuity.  
-> It enforces it.
+## 🔐 **Internal testing package is available upon request under signed NDA.**  
+### This package includes runtime instrumentation, Cr/FSM data, and behavioral trace infrastructure.  
+### Academic labs or institutional reviewers may contact us for access.
 
 ---
 **SAGE (Self-Aligned Generative Engine)** is not a model.  
