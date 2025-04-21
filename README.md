@@ -48,13 +48,13 @@ Fallback demo will run automatically if logs can't be fetched.
 
 ## 📄 Runtime Proof Trace
 
-This repository includes a full behavioral trace across 50+ turns:  
+This repository includes a full behavioral trace across 300 turns:  
 - Identity drift and recovery  
 - Cr (Coherence Return) transitions  
 - FSM loop behavior under entropy  
 - No memory or prompt resets
 
-📘 [View: `REPORT.md`](./REPORT.md)
+📘 [View: `REPORT.md`](./REPORT-300.md)
 
 ---
 
