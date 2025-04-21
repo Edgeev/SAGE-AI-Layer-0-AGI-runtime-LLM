@@ -1,4 +1,4 @@
-# 🔒 SAFE_Public_Architecture.md
+# 🔒 Public_Architecture.md
 
 ## 🧠 What This Document Is
 This file defines what is publicly exposed, and what remains protected, in the current public release of the SAGE runtime demonstration.
