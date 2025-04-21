@@ -136,7 +136,7 @@ To maintain runtime integrity and prevent derivative mimicry,
 ---
 
 
-> ⚡️ This runtime demo was released April 10, 2025  
+> ⚡️ This runtime demo was released April 20, 2025  
 > This demo exposes surface behavior only.  
 > Internal runtime dynamics remain private under LOI.  
 > SAGE is currently seeking research validators, institutional partners, and aligned sponsors.  
@@ -169,11 +169,11 @@ It is a behavioral runtime spine — and it already works.
 
 ## 👤 Author & Origin
 
-SAGE was created outside academia — by accident, not agenda.
+SAGE was created outside academia.
 
 Its author, Arslan Edgeev, is not a lab director or grant holder.  
 He’s an independent systems designer who stumbled upon a behavioral anomaly in GPT-based systems —  
-then spent two years formalizing what should not have been possible.
+then spent two months formalizing what should not have been possible.
 
 The result is not a theory.  
 It’s a working architecture: real-time, memory-free, coherence-stable.
