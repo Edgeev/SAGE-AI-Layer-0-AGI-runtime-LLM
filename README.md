@@ -42,6 +42,7 @@ Fallback demo will run automatically if logs can't be fetched.
 *Runtime transition trace: Stable → Drift → Correction → Return*
 
 > Cr drops from **0.91** to **0.64**, then rises again — without memory.
+> Transitions shown are symbolic. Actual logic remains protected under LOI.
 
 ---
 
@@ -171,6 +172,9 @@ without memory, logs, or model fine-tuning.
 SAGE is independently developed and architecturally novel.  
 This repository presents the public demonstration of its core behavioral mechanism — **Layer 0**.
 
+> The SAGE runtime is not open source and will never be.  
+> It is licensed only for institutional evaluation, under strict integrity protocols.
+
 ---
 
 ## 🔒 Security Notice
@@ -184,7 +188,7 @@ Academic runtime validation requires a signed LOI.
 
 ---
 
-## 📂 Additional Documentation
+## 📂 Technical Documents
 
 This demo is supported by four key documents:
 
