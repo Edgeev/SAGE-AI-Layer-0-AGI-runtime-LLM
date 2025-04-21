@@ -2,7 +2,7 @@
 
 This document outlines the observable behavioral metrics used in the SAGE Runtime demo. These metrics do not disclose internal architecture, thresholds, or feedback mechanisms. They are presented for interpretive and diagnostic purposes only.
 
----
+--- 
 
 ## 🧠 Cr — Coherence Return (runtime-level)
 
