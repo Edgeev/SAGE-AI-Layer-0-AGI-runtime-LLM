@@ -122,28 +122,42 @@ not outputs in response to prompts.
 
 ---
 
-## ❓ FAQ
+## ❓ Extended FAQ
 
-> “Why Isn't This Interactive?”  
+### “Why isn’t this interactive?”
 SAGE is not a chatbot.  
-It does not respond — it regulates.  
+It does not respond — it **regulates**.  
 This repository showcases behavioral traces — not generation.  
 To protect runtime integrity, no real-time inference interface is provided.  
 Stability is visible. Not clickable.
 
-> “Why isn’t there any source code here?”  
-Because **coherence isn't computed — it's sustained.**  
-This repository shows behavior, not implementation. Full runtime access is granted under LOI.
+### “Why isn’t there any source code here?”
+Because **coherence isn’t computed — it’s sustained**.  
+This repository shows **behavior**, not implementation.  
+Full runtime access is granted only under LOI.
 
-> “Is this another agent wrapper?”  
-No. SAGE operates at the **behavioral substrate level**. It is model-agnostic, token-agnostic, and memory-free.
+### “Is this another agent wrapper?”
+No.  
+SAGE operates at the **behavioral substrate level**.  
+It is model-agnostic, token-agnostic, and memory-free.
 
-> “What does Cr actually measure?”  
-Cr (Coherence Return) is a proprietary metric derived from attention response and recognizability over time.  
-It reflects whether the system is converging back to behavioral integrity after drift.
+### “What does Cr actually measure?”
+Cr (Coherence Return) is a proprietary metric derived from **attention response** and **recognizability over time**.  
+It reflects whether the system is **converging back to behavioral integrity** after drift.
 
-> “Can we try it with our own LLMs?”  
-Yes. The runtime is designed to integrate via output-only API. Contact us to initiate evaluation.
+### “Can we try it with our own LLMs?”
+Yes.  
+The runtime is designed to integrate via output-only API. Contact us to initiate evaluation.
+
+### “But couldn’t this be faked by precomputed answers?”
+No.  
+SAGE handles arbitrary input dynamically, with no memory, fine-tuning, or scripted state.  
+**Coherence is not precompiled — it emerges through runtime role regulation.**
+
+### “What makes SAGE different from a classifier?”
+Classifiers **map input to labels**.  
+SAGE **stabilizes identity over time**.  
+It doesn’t choose — it **resists drift** and sustains coherent role behavior without context or recurrence.
 
 ---
 
